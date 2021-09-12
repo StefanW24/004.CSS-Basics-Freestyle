@@ -1,0 +1,19 @@
+ul, a { 
+    color:goldenrod;
+}
+ .black-border {
+    border: 2px solid black;
+    border-style:outset;
+}
+#lightsteelblue-background {
+    background-color:lightsteelblue ;
+}
+body {background-color: cornflowerblue;
+}
+h1, h2,p  {
+    font-family: Courier;
+    font-weight:bold;
+}
+P {font-size:large;
+    font-weight:lighter;
+}
